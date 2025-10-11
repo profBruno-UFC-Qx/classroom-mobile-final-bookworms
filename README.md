@@ -3,28 +3,37 @@
 # Proposta de aplicativo
 
 ## Equipe
-* **Nome do Aluno(a) 1:** [Seu nome e matrícula]
-* **Nome do Aluno(a) 2:** [Seu nome e matrícula]
-* **Nome do Aluno(a) 3:** [Seu nome e matrícula]
-* ...
+* **Nome do Aluno(a) 1:** TIAGO TITO SAMPAIO - 558377
+* **Nome do Aluno(a) 2:** ROBSON JOSE DIAS VENANCIO - 508487 (Já fez mobile antes)
+* **Nome do Aluno(a) 3:** LORENA EMANUELE PINHEIRO FERREIRA - 516293 (Já fez mobile antes)
+* **Nome do Aluno(a) 4:** GABRIEL ALVES PESSOA - 512131 (Já fez mobile antes)
+* **Nome do Aluno(a) 5:** BRUNO DA SILVA LUSTOSA DE MELO - 510709 (Já fez mobile antes)
+
 
 ---
 
 ## Título do Projeto
-[Escolha um título criativo e descritivo para o seu projeto.]
+Bookworms
+
+---
+
 
 ## Descrição do Projeto
-[Descreva em 2-3 parágrafos o que o seu projeto faz. Qual é o problema que ele resolve? Quem é o público-alvo? Quais são as principais funcionalidades?]
+O Bookworms é uma rede social feita especificamente para a biblioteca EEMTI Adelino Cunha Alcântara, voltada para alunos do ensino médio. Ela tem como objetivo o incentivo à leitura por meio de um senso de comunidade.
+
+As iniciativas de incentivo à leitura na EEMTI Adelino Cunha Alcântara (Círculo de Leitura, Encontros com Leitores, sorteios/bingos mediante empréstimo) atraem alunos, mas falham em garantir a leitura efetiva dos livros, pois muitos participam apenas pelos prêmios. Sendo pontuais, essas ações também não criam um senso de comunidade contínuo. Isso revela a oportunidade de construir uma rede social escolar, como o Bookworms, para promover a leitura de forma sustentável, incentivando a interação, o compartilhamento de experiências e a construção de uma identidade leitora coletiva.
 
 ---
 
 ## Funcionalidades Principais
-[Liste as principais funcionalidades do projeto. Use caixas de seleção para que a equipe possa marcar as concluídas nas próximas etapas.]
+Ainda estamos no processo de levantamento de requisitos, mas as funcionaliadedes essenciais seriam: 
 
-- [ ] Funcionalidade 1: [Breve descrição da funcionalidade]
-- [ ] Funcionalidade 2: [Breve descrição da funcionalidade]
-- [ ] Funcionalidade 3: [Breve descrição da funcionalidade]
-- [ ] ...
+- [ ] CRUD estudantes: Cadastro simples por nome, email e senha. Perfil com nome, foto e turma.
+- [ ] CRUD livro: Tendo Título, sinopse, imagem da capa, autores.
+- [ ] CRUD avaliações: É possível avaliar livros, de 1 a 5 estrelas e opcionalmente deixar comentário. As avaliações podem ser respondidas por outros usuários.
+- [ ] Seguir usuários: É possível buscar usuários por nome e segui-los para acompanhar suas novas publicações
+- [ ] Estante virtual: É possível registrar livros nas categorias “quero ler”, “lendo”, “lido” e "abandonado", para organizar e compartilhar minhas leituras.
+- [ ] Perfil de usuário: É possível visualizar o perfil de usuário, que contém a estante virtual e suas avaliações
 
 ---
 
