@@ -28,13 +28,14 @@ As iniciativas de incentivo à leitura na EEMTI Adelino Cunha Alcântara (Círcu
 ## Funcionalidades Principais
 Ainda estamos no processo de levantamento de requisitos, mas as funcionaliadedes essenciais seriam: 
 
-- [ ] CRUD estudantes: Cadastro simples por nome, email e senha. Perfil com nome, foto e turma.
-- [ ] CRUD livro: Tendo Título, sinopse, imagem da capa, autores.
-- [ ] CRUD avaliações: É possível avaliar livros, de 1 a 5 estrelas e opcionalmente deixar comentário. As avaliações podem ser respondidas por outros usuários.
-- [ ] Seguir usuários: É possível buscar usuários por nome e segui-los para acompanhar suas novas publicações
-- [ ] Estante virtual: É possível registrar livros nas categorias “quero ler”, “lendo”, “lido” e "abandonado", para organizar e compartilhar minhas leituras.
-- [ ] Perfil de usuário: É possível visualizar o perfil de usuário, que contém a estante virtual e suas avaliações
+link para o documento de requisitos : https://docs.google.com/document/d/19x8fVqUYo_YmM1Vf5fudd5PXqFZpC7Tc2vB2vwkw_Ig/edit?tab=t.0
 
+- [ ] Gerenciamento de Conta e Perfil: Permitir o cadastro simples (nome, e-mail, senha) e a gestão do perfil do estudante (foto, nome, turma). O perfil deve exibir a estante virtual e as avaliações feitas.
+- [ ] Catálogo e Busca de Livros: Criação de um catálogo de livros (com título, autor, sinopse, capa) via busca interna e integração com API externa (Open Library), permitindo a visualização dos detalhes da obra e sua nota média na comunidade.
+- [ ] Estante Virtual: Funcionalidade para o aluno registrar, organizar e compartilhar suas leituras nas categorias padrão: "Quero Ler", "Lendo", "Lido" e "Abandonado".
+- [ ] Avaliações e Resenhas: Possibilitar a avaliação de livros com notas de 1 a 5 estrelas e a escrita de resenhas (com opção de marcação de spoiler) que contribuem para a nota da comunidade.
+- [ ] Estante virtual: É possível registrar livros nas categorias “quero ler”, “lendo”, “lido” e "abandonado", para organizar e compartilhar minhas leituras.
+- [ ] Interação Social (Seguir Usuários): Implementar a função de seguir/deixar de seguir outros estudantes e visualizar um Feed de Atividades cronológico com as novas avaliações e adições de livros dos usuários seguidos.
 ---
 
 > [!WARNING]
