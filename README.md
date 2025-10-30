@@ -3,11 +3,11 @@
 # Proposta de aplicativo
 
 ## Equipe
-* **Nome do Aluno(a) 1:** TIAGO TITO SAMPAIO - 558377
-* **Nome do Aluno(a) 2:** ROBSON JOSE DIAS VENANCIO - 508487 (Já fez mobile antes)
-* **Nome do Aluno(a) 3:** LORENA EMANUELE PINHEIRO FERREIRA - 516293 (Já fez mobile antes)
-* **Nome do Aluno(a) 4:** GABRIEL ALVES PESSOA - 512131 (Já fez mobile antes)
-* **Nome do Aluno(a) 5:** BRUNO DA SILVA LUSTOSA DE MELO - 510709 (Já fez mobile antes)
+* **Nome do Aluno(a) 1:** TIAGO TITO SAMPAIO - 558377 (Tito-Tiago)
+* **Nome do Aluno(a) 2:** ROBSON JOSE DIAS VENANCIO - 508487 (Já fez mobile antes) (Robsu66)
+* **Nome do Aluno(a) 3:** LORENA EMANUELE PINHEIRO FERREIRA - 516293 (Já fez mobile antes) (lorenaepf)
+* **Nome do Aluno(a) 4:** GABRIEL ALVES PESSOA - 512131 (Já fez mobile antes) (GabrielAlves-Dev)
+* **Nome do Aluno(a) 5:** BRUNO DA SILVA LUSTOSA DE MELO - 510709 (Já fez mobile antes) (Brunomelo0)
 
 
 ---
